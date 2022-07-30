@@ -23,7 +23,7 @@ body{
   
   .topnav a:hover {
     background-color: #2A2A9A;
-    color: white;
+    color: black;
   }
   
   .topnav a.active {
