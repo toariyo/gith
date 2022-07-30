@@ -13,7 +13,7 @@ body{
   
   .topnav a {
     float: left;
-    color: #fff;
+    color: black;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -107,7 +107,7 @@ body{
     padding-top: 40px;
     height: auto;
     text-align: left;
-    color: #fff;
+    color: black;
     padding-left: 10px;
     padding-right: 10px;
   }
