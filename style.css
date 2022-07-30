@@ -8,7 +8,7 @@ body{
     position: fixed;
     background-color: #FFF;
     overflow: hidden;
-    border-bottom: #FFFFFF;
+    border-bottom: #2A2A9A;
   }
   
   .topnav a {
@@ -22,12 +22,12 @@ body{
   }
   
   .topnav a:hover {
-    background-color: #FFFFFF;
+    background-color: #2A2A9A;
     color: blue;
   }
   
   .topnav a.active {
-    background-color: #FFFFFF;
+    background-color: #2A2A9A;
     color: black;
   }
 
@@ -41,8 +41,8 @@ body{
     background-color: #FFF;
     width: auto;
     height: auto;
-    border-right: #fff;
-    border-bottom: #fff;
+    border-right: #000;
+    border-bottom: #000;
     border-style: solid;
     float: left;
   }
