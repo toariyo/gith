@@ -56,7 +56,7 @@ body{
   }
 
   .name{
-    background-color: #faebd7;
+    background-color: #FFF;
     color: black;
     width: 150px;
     height: auto;
@@ -67,7 +67,7 @@ body{
   }
 
   .information{
-    background-color: #faebd7;
+    background-color: #FFF;
     color: black;
     width: auto;
     height: auto;
@@ -76,7 +76,7 @@ body{
     size: 12px;
   }
   .download_resume{
-    background-color: #faebd7;
+    background-color: #FFF;
     color: black;
     text-align: left;
     size: 24px;
